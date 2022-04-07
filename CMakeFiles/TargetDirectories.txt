@@ -1,0 +1,3 @@
+/mnt/d/BIT_lab/Code/C++Code/LearnCpp/ThreadPool/CMakeFiles/rebuild_cache.dir
+/mnt/d/BIT_lab/Code/C++Code/LearnCpp/ThreadPool/CMakeFiles/edit_cache.dir
+/mnt/d/BIT_lab/Code/C++Code/LearnCpp/ThreadPool/CMakeFiles/ThreadPool.dir

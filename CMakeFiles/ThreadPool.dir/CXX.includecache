@@ -1,0 +1,40 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/mnt/d/BIT_lab/Code/C++Code/LearnCpp/ThreadPool/1.cpp
+ThreadPool.h
+/mnt/d/BIT_lab/Code/C++Code/LearnCpp/ThreadPool/ThreadPool.h
+assert.h
+-
+future
+-
+
+/mnt/d/BIT_lab/Code/C++Code/LearnCpp/ThreadPool/ThreadPool.cpp
+ThreadPool.h
+/mnt/d/BIT_lab/Code/C++Code/LearnCpp/ThreadPool/ThreadPool.h
+stdexcept
+-
+assert.h
+-
+
+/mnt/d/BIT_lab/Code/C++Code/LearnCpp/ThreadPool/ThreadPool.h
+iostream
+-
+vector
+-
+deque
+-
+thread
+-
+mutex
+-
+condition_variable
+-
+functional
+-
+
