@@ -9,4 +9,4 @@ if(CMAKE_COMPILER_IS_GNUCXX)
 	message(STATUS "optional: -pthread")
 endif(CMAKE_COMPILER_IS_GNUCXX)
 
-add_executable(ThreadPool multiProducers..cpp ThreadPool.cpp)
+add_executable(ThreadPool multiProducers.cpp ThreadPool.cpp)
